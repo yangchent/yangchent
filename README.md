@@ -1,7 +1,7 @@
 ### Hello 👋
 [![Linkedin: anmol](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/yangchen-tsering-662739201/)](https://www.linkedin.com/in/yangchen-tsering-662739201/)
 
-🌱 I’m currently learning ... Développeur web Full stack Javascript at KONEXIO https://www.konexio.eu/index.html
+🌱 I’m currently learning ...Full stack Web developer (Javascript) at KONEXIO https://www.konexio.eu/index.html
 
 🤔 I’m looking for an internship duration of four to six months from 21st Oct,2021
 
@@ -18,6 +18,9 @@ Frameworks, Platforms and Libraries :
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white)
+
+Database management system : 
+![MongoDB](https://img.shields.io/badge/mongoDB-%2343853D.svg?style=for-the-badge&logo=node.js&logoColor=white)
 
 IDEs/Editors :
 
