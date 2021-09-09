@@ -28,7 +28,7 @@ Operating System :
 
 Certificate from Sololearn :https://www.sololearn.com/profile/20208260
 
-<img src="https://www.sololearn.com/Certificate/1014-20208260/jpg/" alt="drawing" width="150" />  &nbsp; <img src="https://www.sololearn.com/certificates/course/en/20208260/1024/landscape/png" alt="drawing" width="150"/>&nbsp; <img src="&nbsp; <img src="https://www.sololearn.com/Certificate/1097-20208260/jpg/" alt="drawing" width="150"/>" width="150"/>
+<img src="https://www.sololearn.com/Certificate/1014-20208260/jpg/" alt="drawing" width="150" />  &nbsp; <img src="https://www.sololearn.com/certificates/course/en/20208260/1024/landscape/png" alt="drawing" width="150"/>&nbsp;<img src="https://www.sololearn.com/Certificate/1097-20208260/jpg/" alt="drawing" width="150"/>
 
 
 
