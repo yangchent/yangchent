@@ -27,6 +27,7 @@ BackEnd :
 DataBase : 
 
 ![MongoDB](https://img.shields.io/badge/mongoDB-%2343853D.svg?style=for-the-badge&logo=node.js&logoColor=white)
+![Postgresql](https://img.shields.io/badge/Postgresql-%2343853D.svg?style=for-the-badge&logo=Postgresql&logoColor=white)
 
 IDEs/Editors :
 
