@@ -1,5 +1,6 @@
 ### Hello 👋
 [![Linkedin: anmol](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/yangchen-tsering-662739201/)](https://www.linkedin.com/in/yangchen-tsering-662739201/) &nbsp; 
+
 [My PortFolio](https://yangchent.github.io/portfolio/)
 
 
@@ -21,6 +22,7 @@ Frameworks :
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
 BackEnd : 
 
@@ -43,11 +45,3 @@ Operating System :
 Certificate from Sololearn :https://www.sololearn.com/profile/20208260
 
 <img src="https://www.sololearn.com/Certificate/1014-20208260/jpg/" alt="drawing" width="150" />  &nbsp; <img src="https://www.sololearn.com/certificates/course/en/20208260/1024/landscape/png" alt="drawing" width="150"/>  &nbsp; <img src="https://www.sololearn.com/Certificate/1097-20208260/jpg/" alt="drawing" width="150"/>
-
- 
-
-
-
-
-
-
