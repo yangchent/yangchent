@@ -1,8 +1,14 @@
-### Hello 👋
+### Hello 👋 :smile:
+
 [![Linkedin: anmol](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/yangchen-tsering-662739201/)](https://www.linkedin.com/in/yangchen-tsering-662739201/) &nbsp; 
 
-[My PortFolio](https://yangchent.github.io)
-[My New PortFolio](https://yangchent.netlify.app)
+
+### [PortFolio](https://yangchent.netlify.app) :eyes:
+
+
+[Old PortFolio](https://yangchent.github.io)
+
+
 
 🌱 I’m a certified junior Full stack Web developer, looking for a job.
 
