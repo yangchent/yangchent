@@ -50,4 +50,12 @@ Operating System :
 
 Certificate from Sololearn :https://www.sololearn.com/profile/20208260
 
-<img src="https://www.sololearn.com/Certificate/1014-20208260/jpg/" alt="drawing" width="150" />  &nbsp; <img src="https://www.sololearn.com/certificates/course/en/20208260/1024/landscape/png" alt="drawing" width="150"/>  &nbsp; <img src="https://www.sololearn.com/Certificate/1097-20208260/jpg/" alt="drawing" width="150"/>
+<img src="https://www.sololearn.com/Certificate/1014-20208260/jpg/" alt="drawing" width="150" />  &nbsp; <img src="https://www.sololearn.com/certificates/course/en/20208260/1024/landscape/png" alt="drawing" width="150"/>  &nbsp; <img src="https://www.sololearn.com/Certificate/1097-20208260/jpg/" alt="drawing" width="150"/>&nbsp;
+
+### OpenClassRoom Certificates :
+
+Learn Programming with Javascript : https://openclassrooms.com/en/course-certificates/5231985094 
+
+Think like a computer(The logic of programming): https://openclassrooms.com/en/course-certificates/8613310253
+
+Learn the command Line in Terminal : https://openclassrooms.com/en/course-certificates/3817469231
