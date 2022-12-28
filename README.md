@@ -54,10 +54,17 @@ Certificate from Sololearn :https://www.sololearn.com/profile/20208260
 
 ### OpenClassRoom Certificates :
 Produce Maintainable CSS With Sass : https://openclassrooms.com/en/course-certificates/8122439930
+
 Create a Web Application With React.js : https://openclassrooms.com/en/course-certificates/7720297655
+
 Go Full-Stack With Node.js, Express, and MongoDB : https://openclassrooms.com/en/course-certificates/2157535342
+
 Build Your First Web Pages With HTML and CSS : https://openclassrooms.com/en/course-certificates/5101317336
+
 Learn Programming with Javascript : https://openclassrooms.com/en/course-certificates/5231985094 
+
 Comprendre le Web	 : https://openclassrooms.com/en/course-certificates/3548435590
+
 Think like a computer(The logic of programming): https://openclassrooms.com/en/course-certificates/8613310253
+
 Learn the command Line in Terminal : https://openclassrooms.com/en/course-certificates/3817469231
