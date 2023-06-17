@@ -3,11 +3,11 @@
 [![Linkedin: anmol](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/yangchen-tsering-662739201/)](https://www.linkedin.com/in/yangchen-tsering-662739201/) &nbsp; 
 
 
-### [PortFolio](https://yangchent.netlify.app) :eyes:
 
 
-[Old PortFolio](https://yangchent.github.io)
+## [ PortFolio](https://yangchent.github.io) :eyes:
 
+ [Old PortFolio](https://yangchent.netlify.app) 
 
 
 🌱 I’m a certified junior Full stack Web developer, looking for a job.
